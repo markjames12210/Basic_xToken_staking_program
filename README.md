@@ -13,7 +13,7 @@ Using Anchor, we'd like you to build a basic xToken staking program. A user shou
   ```
   [provider]
   cluster = "localnet"
-  wallet = "/home/migeltom/.config/solana/id.json"         //<= change this line
+  wallet = "~/.config/solana/id.json"         //<= change this line
   ```
 
 - install packages
