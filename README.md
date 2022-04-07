@@ -8,10 +8,6 @@ Using Anchor, we'd like you to build a basic xToken staking program. A user shou
   1.22.17
 
 ## Run
-- clone repository
-  ```
-  git clone https://github.com/MigelTom/Basic_xToken_staking_program.git
-  ```
 
 - set provider wallet (Anchor.toml)
   ```
